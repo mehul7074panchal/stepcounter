@@ -6,8 +6,9 @@ Used three functionality of firebase
   3. Firebase Storage
   
   It is simple stepcounter app.
-  
-  ![alt Login](https://github.com/mehul7074panchal/stepcounter/blob/master/Scrrenshots/Login.JPEG =100x20)
+  <img src="https://github.com/favicon.ico" width="48">
+
+  ![alt Login](https://github.com/mehul7074panchal/stepcounter/blob/master/Scrrenshots/Login.JPEG)
   ![alt SignUp](https://github.com/mehul7074panchal/stepcounter/blob/master/Scrrenshots/SignUp.JPEG)
   ![alt ForgotPassword](https://github.com/mehul7074panchal/stepcounter/blob/master/Scrrenshots/ForgotPassword.JPEG)
   ![alt Profile](https://github.com/mehul7074panchal/stepcounter/blob/master/Scrrenshots/Profile.JPEG)
