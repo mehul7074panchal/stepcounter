@@ -6,11 +6,13 @@ Used three functionality of firebase
   3. Firebase Storage
   
   It is simple stepcounter app.
-  <img src="https://github.com/favicon.ico" width="48">
+  </br>
+  <img src="https://github.com/mehul7074panchal/stepcounter/blob/master/Scrrenshots/Login.JPEG" alt="Login" height="600">
+  <img src="https://github.com/mehul7074panchal/stepcounter/blob/master/Scrrenshots/SignUp.JPEG" alt="SignUp" height="600">
+  <img src="https://github.com/mehul7074panchal/stepcounter/blob/master/Scrrenshots/ForgotPassword.JPEG" alt="ForgotPassword" height="600">
+  <img src="https://github.com/mehul7074panchal/stepcounter/blob/master/Scrrenshots/Profile.JPEG" alt="Profile" height="600">
+  <img src="https://github.com/mehul7074panchal/stepcounter/blob/master/Scrrenshots/Permission.JPEG" alt="Permission" height="600">
+  <img src="https://github.com/mehul7074panchal/stepcounter/blob/master/Scrrenshots/Home.JPEG" alt="Home" height="600">
 
-  ![alt Login](https://github.com/mehul7074panchal/stepcounter/blob/master/Scrrenshots/Login.JPEG)
-  ![alt SignUp](https://github.com/mehul7074panchal/stepcounter/blob/master/Scrrenshots/SignUp.JPEG)
-  ![alt ForgotPassword](https://github.com/mehul7074panchal/stepcounter/blob/master/Scrrenshots/ForgotPassword.JPEG)
-  ![alt Profile](https://github.com/mehul7074panchal/stepcounter/blob/master/Scrrenshots/Profile.JPEG)
-  ![alt Permission](https://github.com/mehul7074panchal/stepcounter/blob/master/Scrrenshots/Permission.JPEG)
-  ![alt Home](https://github.com/mehul7074panchal/stepcounter/blob/master/Scrrenshots/Home.JPEG)
+
+  
